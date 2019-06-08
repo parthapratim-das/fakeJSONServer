@@ -1,7 +1,7 @@
 {
   "Add-Stream": [
-    { "id": 1, "Course Name": "Java", "topicName":"Collection" },
-    { "id": 2, "Course Name": "Java", "topicName":"String" },
-    { "id": 3, "Course Name": "General", "topicName":"Exception" }
+    { "id": 1, "CourseName": "Java", "topicName":"Collection" },
+    { "id": 2, "CourseName": "Java", "topicName":"String" },
+    { "id": 3, "CourseName": "General", "topicName":"Exception" }
   ]
 }
